@@ -20,7 +20,7 @@
 
 IT professional with 7+ years in enterprise infrastructure, endpoint management, and identity systems — going deep on cloud engineering, FinOps, and AI-assisted IT automation.
 
-> Currently building: **Multi-Tier with ALB + Auto Scaling with AWS Cost Explorer Dashboard and Budget Alerts & Anomaly Detection** and earning **AWS Solutions Architect Associate and FinOps Practitioner Certs**
+> Currently building: **Lab 05 — Multi-Tier ALB + Auto Scaling** · **AWS Cost Explorer Dashboard** · **Budget Alerts & Anomaly Detection** · n8n + OpenCode ✅ shipped · earning **AWS Solutions Architect Associate** and **FinOps Practitioner**
 
 ---
 
