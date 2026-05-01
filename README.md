@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I'm Omie</h1>
+  <h1>Hey, I'm Oumoeurt</h1>
   <p><strong>FinOps Certified Practitioner · Cloud Engineer · IT Infrastructure Pro</strong></p>
   <p>
     <a href="https://oumoeurtmm-code.github.io">
@@ -18,7 +18,7 @@
 
 ---
 
-IT professional with 7+ years in enterprise infrastructure, endpoint management, and identity systems — FinOps certified and going deep on cloud cost optimization, cloud engineering, and AI-assisted IT automation.
+IT professional with 13+ years in enterprise infrastructure, endpoint management, and identity systems — FinOps certified and going deep on cloud cost optimization, cloud engineering, and AI-assisted IT automation.
 
 > Currently building: **Lab 05 — Multi-Tier ALB + Auto Scaling** · **AWS Cost Explorer Dashboard** · **Budget Alerts & Anomaly Detection** · earning **AWS Solutions Architect Associate**
 
