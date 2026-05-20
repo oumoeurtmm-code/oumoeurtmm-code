@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, I'm Oumoeurt</h1>
-  <p><strong>FinOps Certified Practitioner · AWS Solutions Architect · Cloud Engineer · IT Infrastructure Pro</strong></p>
+  <p><strong>FinOps Certified Practitioner ·  Cloud Engineer · IT Infrastructure</strong></p>
   <p>
     <a href="https://oumoeurtmm-code.github.io">
       <img src="https://img.shields.io/badge/Portfolio-oumoeurtmm--code.github.io-38bdf8?style=flat&logo=github&logoColor=white"/>
