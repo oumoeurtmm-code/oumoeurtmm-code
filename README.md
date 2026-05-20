@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, I'm Oumoeurt</h1>
-  <p><strong>FinOps Certified Practitioner · Cloud Engineer · IT Infrastructure Pro</strong></p>
+  <p><strong>FinOps Certified Practitioner · AWS Solutions Architect · Cloud Engineer · IT Infrastructure Pro</strong></p>
   <p>
     <a href="https://oumoeurtmm-code.github.io">
       <img src="https://img.shields.io/badge/Portfolio-oumoeurtmm--code.github.io-38bdf8?style=flat&logo=github&logoColor=white"/>
@@ -18,27 +18,29 @@
 
 ---
 
-IT professional with 13+ years in enterprise infrastructure, endpoint management, and identity systems — FinOps certified and going deep on cloud cost optimization, cloud engineering, and AI-assisted IT automation.
+IT professional with 13+ years in enterprise infrastructure, endpoint management, and identity systems — FinOps certified and AWS Solutions Architect certified, going deep on cloud cost optimization, cloud engineering, and AI-assisted IT automation.
 
-> Currently building: **Lab 05 — Multi-Tier ALB + Auto Scaling** · **AWS Cost Explorer Dashboard** · **Budget Alerts & Anomaly Detection** · earning **AWS Solutions Architect Associate**
+> Currently building: **AWS Cost Explorer Dashboard** · **Budget Alerts & Anomaly Detection** · **Cloud Cost Optimization Labs** · **FinOps Best Practices Documentation**
 
 ---
 
 ## Certifications
 
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![FinOps](https://img.shields.io/badge/FinOps_Foundation-Certified_Practitioner-F5A623?style=flat&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B_(Aug_2025)-E02020?style=flat&logo=comptia&logoColor=white)
-![Network+](https://img.shields.io/badge/CompTIA-Network%2B_(Aug_2025)-E02020?style=flat&logo=comptia&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E02020?style=flat&logo=comptia&logoColor=white)
+![Network+](https://img.shields.io/badge/CompTIA-Network%2B-E02020?style=flat&logo=comptia&logoColor=white)
 ![A+](https://img.shields.io/badge/CompTIA-A%2B-E02020?style=flat&logo=comptia&logoColor=white)
 
-| Credential | Issuer | Valid |
+| Credential | Issuer | Status |
 |---|---|---|
-| **FinOps Certified Practitioner** | FinOps Foundation | Mar 2026 – Mar 2028 · [Verify](https://verify.skilljar.com/c/66rjv7grzopd) |
-| AWS Certified Cloud Practitioner | Amazon Web Services | Active |
-| CompTIA Security+ | CompTIA | Aug 2025 |
-| CompTIA Network+ | CompTIA | Aug 2025 |
-| CompTIA A+ | CompTIA | Active |
+| **AWS Solutions Architect – Associate** | Amazon Web Services | ✅ Certified |
+| **FinOps Certified Practitioner** | FinOps Foundation | ✅ Mar 2026 – Mar 2028 · [Verify](https://verify.skilljar.com/c/66rjv7grzopd) |
+| AWS Certified Cloud Practitioner | Amazon Web Services | ✅ Active |
+| CompTIA Security+ | CompTIA | ✅ Earned Aug 2025 |
+| CompTIA Network+ | CompTIA | ✅ Earned Aug 2025 |
+| CompTIA A+ | CompTIA | ✅ Active |
 
 ---
 
